@@ -4760,9 +4760,9 @@ pre {
     margin-top: 1em;
     margin-left: 0.5em; }
     .theme--dark .post .post-date {
-      color: #1E2227; }
+      color: #FFF; }
     .theme--light .post .post-date {
-      color: #15171A; }
+      color: #FFF; }
   .theme--dark .post strong {
     color: white; }
   .theme--light .post strong {
@@ -4852,9 +4852,9 @@ pre {
   .post-link-wrapper > .post-meta {
     font-size: 14px; }
     .theme--dark .post-link-wrapper > .post-meta {
-      color: #1E2227; }
+      color: #FFF; }
     .theme--light .post-link-wrapper > .post-meta {
-      color: #15171A; }
+      color: #FFF; }
 
 .tag-cloud {
   margin-bottom: 2em;

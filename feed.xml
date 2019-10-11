@@ -1,47 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="/https://ismalel.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="/https://ismalel.dev/" rel="alternate" type="text/html" /><updated>2019-10-03T09:10:50-05:00</updated><id>/https://ismalel.dev/feed.xml</id><title type="html">ismalel-dev</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><author><name>ismalel</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="/https://ismalel.dev/2019/04/16/welcome-to-jekyll2.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-04-16T00:00:00-05:00</published><updated>2019-04-16T00:00:00-05:00</updated><id>/https://ismalel.dev/2019/04/16/welcome-to-jekyll2</id><content type="html" xml:base="/https://ismalel.dev/2019/04/16/welcome-to-jekyll2.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="/https://ismalel.dev//feed.xml" rel="self" type="application/atom+xml" /><link href="/https://ismalel.dev//" rel="alternate" type="text/html" /><updated>2019-10-10T22:34:34-05:00</updated><id>/https://ismalel.dev//feed.xml</id><title type="html">ismalel-dev</title><subtitle>Me llamo Ismael y me gusta hacer estas cosas en lugar de mis obligaciones. Utilizo este espacio para escribir sobre lo que pienso, lo que estoy aprendiendo o algún conocimiento que quisiera compartir. No seré constante ni promocionaré esto de algún modo, es con fines terapéuticos y por falta de atención.
+</subtitle><author><name>ismalel</name></author><entry><title type="html">Nuevo Blog</title><link href="/https://ismalel.dev//2019/10/10/nuevo-blog.html" rel="alternate" type="text/html" title="Nuevo Blog" /><published>2019-10-10T00:00:00-05:00</published><updated>2019-10-10T00:00:00-05:00</updated><id>/https://ismalel.dev//2019/10/10/nuevo-blog</id><content type="html" xml:base="/https://ismalel.dev//2019/10/10/nuevo-blog.html">&lt;p&gt;Este es el segundo intento de crear un blog personal que hago, el primero fue hace aproximadamente un año. Aún vivía en Mexicali, de hecho, no le di seguimiento porque empecé el proceso de mudarme hacia la Ciudad de México, pero heme aquí, volviendo a intentar.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;La verdad no espero que alguien lea esto o algo así, funciona más como un diario personal x cuaderno de apuntes x lugar donde quejarme porque ya tengo mucha gente agregada en Facebook y me da pena. Aqui probablemente nadie lo lea así que estoy listo.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“This is a quote which should be followed”&lt;/p&gt;
+&lt;p&gt;También sirve para mejorar mi redacción y ortografía que evidentemente es de mis debilidades, ¡Hurra por la escuela pública y la mediocridad!&lt;/p&gt;
 
-  &lt;ul&gt;
-    &lt;li&gt;Chris Wayne&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Pero básicamente me gustaría escribir sobre estos temas:&lt;/p&gt;
 
-&lt;p&gt;However, these are bulletpoints:&lt;/p&gt;
+&lt;h2 id=&quot;programación&quot;&gt;Programación&lt;/h2&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/li&gt;
-  &lt;li&gt;another point&lt;/li&gt;
-  &lt;li&gt;that’s it&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Pues a eso me dedico y para mi fortuna/desgracia es un ámbito muy evolutivo,  cada semana sale una tecnología nueva o una nueva versión de una existente, asi que hay que estarse actualizando constantemente.&lt;/p&gt;
 
-&lt;p&gt;However, these entries should not be styled:&lt;/p&gt;
+&lt;p&gt;Siendo un poco más específico: “Computer Vision &amp;amp; Deep Learning”(en español suena horrible, sorry not sorry) la cual se resume en inteligencia artificial aplicada en el procesamiento de imágenes y videos para la detección de cosas que nos interesen ejemplo : Reconocimiento facial, clasificación de imagenes, lectura de textos en imágenes y básicamente todo lo que hacían en CSI con las cámaras de vigilancia pero más leve.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;an entry&lt;/li&gt;
-  &lt;li&gt;another entry&lt;/li&gt;
-  &lt;li&gt;that’s another entry&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h4 id=&quot;por-qué&quot;&gt;¿Por qué?&lt;/h4&gt;
+&lt;p&gt;Quisiera tener algun motivo profundo pero realmente me da flojera la programación web y muchas de las vertientes de mi carrera, eso eso todo.&lt;/p&gt;
 
-&lt;video preload=&quot;auto&quot; poster=&quot;https://pbs.twimg.com/tweet_video_thumb/D5aj3tfW0AIiSxo.jpg&quot; src=&quot;https://video.twimg.com/tweet_video/D5aj3tfW0AIiSxo.mp4&quot; type=&quot;video/mp4&quot; autoplay=&quot;&quot; controls=&quot;&quot;&gt;&lt;/video&gt;
+&lt;h2 id=&quot;cine&quot;&gt;Cine&lt;/h2&gt;
+&lt;p&gt;Me encanta el cine y estoy lejos de ser un experto pero me encanta hablar, leer, escuchar y escribir sobre ello. Siempre lo vi como algo de entrenimiento solamente, la idea de perseguir una carrera en ello se me hacía absurda; nací pobre y sin talento, fantasear con algo así sería una ofensa grave. Pero luego llegué a la Ciudad de México y pues aquí todo parece posible, tomé algunos cursos y me encantó. No digo que intente ser un Guillermo del Toro pero me gusta prácticarlo como hobbie.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;En fin, he hecho algunos ejercicios y tengo otros pendientes, pero trataré de documentar el proceso de realización de los que haga, no es nada profesional y mucho menos de calidad pero es lo que hace que no me mate.&lt;/p&gt;
 
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;off-topic&quot;&gt;Off-Topic&lt;/h2&gt;
+&lt;p&gt;La verdad es que aquí no tengo amigos, mis mejores amigos viven en otro estado y los pocos conocidos que tengo de aquí, los veo como una vez cada dos meses y no soy mucho de hablar por redes sociales. Y aunque parezca muy serio en persona, tengo muchas cosas que compartir: tonterías, principalmente y opiniones personales que nadie le interesa.&lt;/p&gt;
 
-&lt;h1 id=&quot;an-interesting-fact-on-the-economy-of-modern-america&quot;&gt;An interesting fact on the economy of modern America&lt;/h1&gt;
-
-&lt;p&gt;Pictures look like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://picsum.photos/200&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>ismalel</name></author><category term="welcome" /><category term="introduction" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Pues eso es todo por ahora supongo, hasta el próximo post.&lt;/p&gt;</content><author><name>ismalel</name></author><category term="introducción" /><summary type="html">Este es el segundo intento de crear un blog personal que hago, el primero fue hace aproximadamente un año. Aún vivía en Mexicali, de hecho, no le di seguimiento porque empecé el proceso de mudarme hacia la Ciudad de México, pero heme aquí, volviendo a intentar.</summary></entry></feed>
